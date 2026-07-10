@@ -2,6 +2,6 @@
 
 This is my individually delivered assignment where i chose to write about "The Financial Impact of Malware".
 
-### Grade: A
+**Grade:** A
 
-### Date: 18/1/2022
+**Date:** 18/1/2022
